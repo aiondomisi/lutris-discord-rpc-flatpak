@@ -1,5 +1,7 @@
 # lutris-discord-rpc-flatpak
 
+This repo is archived, safe for future reference. Please refer to <https://github.com/aiondomisi/lutris-presence> for more easier and workable implementation 
+
 # Lutris → Discord Rich Presence (native Lutris + Flatpak Discord)
 
 Show **"Playing Lutris"** with the **game name** underneath in Discord, for any game or emulator in Lutris, including games Lutris has no Discord app ID for.
